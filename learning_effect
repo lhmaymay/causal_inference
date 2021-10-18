@@ -1,0 +1,8 @@
+https://www.analytics-toolkit.com/glossary/learning-effect/
+What is a Learning Effect?
+A learning effect in an online controlled experiment is a positive or negative effect from an intervention that only becomes pronounced after a certain time t has passed. The effect might be gradually increasing with time (linearly, exponentially, etc.) or there might a more drastic level shift after a certain time.
+
+When planning an A/B test it is usually useful to consider a longer test duration for more dramatic changes in order to allow for more time for users to get comfortable with a change. Many people perceive changes negatively initially, even though they eventually get used to the new situation. Similarly, some people might express interest and curiosity towards a new feature which fades quickly with time so if one tests too briefly the outcome of the test may have poor predictive value due to that.
+
+Learning effects, especially mid and long-term ones can be a significant factor in undermining the external validity (generalizability of an A/B test. It is especially hard to estimate longer term effects due to technical difficulties presented by non-persistent identification of users (e.g. cookie churn and the costs involved. In particular methodologies attempting to measure learning effects could, in the presence survivorship bias, instead be measuring the resulting population change and not the change caused by user learning.
+
